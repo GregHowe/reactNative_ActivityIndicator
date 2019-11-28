@@ -1,9 +1,9 @@
-import React, { Component } from 'react'
-import WebViewExample from './modal_example.js'
+import React from 'react'
+import ActivityIndicatorExample from './activity_indicator_example.js'
 
 const Home = () => {
    return (
-      <WebViewExample/>
+      <ActivityIndicatorExample />
    )
 }
-export default Home;
+export default Home
